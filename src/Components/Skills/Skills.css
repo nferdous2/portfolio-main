@@ -1,0 +1,30 @@
+.progress-barO{
+    width: 80%;
+    background-color: red;
+    padding: 10px;
+}
+.progress-barS{
+    width: 60%;
+    background-color: red;
+    padding: 10px;
+}
+.progress-barT{
+    width: 30%;
+    background-color: red;
+    padding: 10px;
+}
+.progress-barF{
+    width: 40%;
+    background-color: red;
+    padding: 10px;
+}
+.progress-barFT{
+    width: 60%;
+    background-color: red;
+    padding: 10px;
+}
+.skill-item{
+    padding: 5px;
+    margin-top: 10px;
+   
+}
