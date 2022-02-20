@@ -5,3 +5,6 @@
 .blog-text{
     color: black;
 }
+.blog-cards{
+    overflow: scroll;
+}

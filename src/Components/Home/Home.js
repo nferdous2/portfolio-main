@@ -1,6 +1,6 @@
 import React from 'react';
 import About from '../About/About';
-import Blog from '../Blog/Blog';
+import Blogs from '../Blogs/Blogs';
 import Contact from '../Contact/Contact';
 import Footer from '../Footer/Footer';
 import Projects from '../Projects/Projects';
@@ -20,7 +20,7 @@ const Home = () => {
             {/* projects */}
             <Projects />
             {/* contact form */}
-            <Blog />
+            <Blogs />
             <Contact />
             <Footer></Footer>
         </div>

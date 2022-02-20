@@ -1,8 +1,6 @@
 import React from 'react';
 import './About.css'
-// import { Card } from 'react-bootstrap';
-import about from '../../image/about.png'
-import { Link } from 'react-router-dom';
+import about from '../../image/about.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 const About = () => {
@@ -37,7 +35,7 @@ const About = () => {
                                 ABOUT <span>ME</span>
                             </h2>
                             <p>Hello I'm Noorjahan Ferdous and I'm a frontend Developer.I love Web development and and i have acquired skills and knowledge to make projetcs successfull.</p>
-                            <a href="https://drive.google.com/file/d/1a8iKAYbMd0-PA6CWvFyKxGCam3E7tegM/view?usp=sharing" target="blank" type="button" class="btn btn-outline-danger mb-3">Download Resume</a>
+                            <a href="https://drive.google.com/file/d/1SbnqybZSq2gy5nlXIzL73n6x-GlzBhYb/view?usp=sharing" target="blank" type="button" class="btn btn-outline-danger mb-3">Download Resume</a>
 
                         </div>
                     </div>

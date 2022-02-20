@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import "./App.css";
+import Blog from "./Components/Blog/Blog";
 import Contact from "./Components/Contact/Contact";
 import Header from "./Components/Header/Header";
 import Home from "./Components/Home/Home";
@@ -21,6 +22,7 @@ function App() {
           <Route path="/project1" element={<Project1 />} />
           <Route path="/project2" element={<Project2 />} />
           <Route path="/project3" element={<Project3 />} />
+          <Route path="/blogs" element={<Blog />} />
         </Routes>
       </BrowserRouter>
     </div>

@@ -1,19 +1,5 @@
-.card-images{
-    width: 70%;
-    height: 50%;
-    padding: 5px;
-    margin: auto;
 
-}
-.colorname{
-    color: rgb(231, 68, 8);
-}
-.cardstyle{
-    border-radius: 10px;
-    box-sizing: border-box;
-    box-shadow: 0px 0px 10px rgb(102, 100, 100);
-}
- .card-text , .card-title{
-    color: #f8ddea;
+ .card-title,.colorname{
+    color:rgb(247, 139, 67);
     font-weight: 700;
-}
+}  
