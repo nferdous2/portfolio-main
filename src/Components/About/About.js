@@ -22,7 +22,7 @@ const About = () => {
                             <p>I'm a Frontend Developer.</p>
                             <p>Phone: 01770205344</p>
                             <p>Email: noorjahanferdous029@gmail.com</p>
-                            <p>Address: Raynogor,Mitali,Sylhet,Bangladesh</p>
+                            <p>Address: Raynagar,Sylhet,Bangladesh</p>
                             <a href="https://github.com/nferdous2" target="blank" className="icons p-2"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
                             <a href="https://www.linkedin.com/in/noorjahan-ferdous-945391227/" target="blank" className="icons"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon>
                             </a>
